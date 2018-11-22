@@ -1,0 +1,215 @@
+.button {
+	background-color: #4CAF50;
+      color: white;
+    
+    
+}
+
+.button:hover {
+    background-color: white; 
+	color: black; 
+  border: 2px solid #4CAF50;
+}
+
+
+.weak{
+	background-color:rgb(255, 199, 206 ); /*#db7867 */
+	color: red;
+}
+.good{
+	
+	background-color:rgb(198, 239, 206 ); /*#72eaa6;*/
+	color: green;
+}
+
+
+
+
+select {
+   
+    
+    border: none;
+    border-radius: 4px;
+ 
+}
+
+
+.RSM_KPI_Div{
+	
+	background-color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius:10px 10px 10px 10px ;
+	padding: 10px;
+	box-shadow: 1px 1px 2px #3c2f00;
+	
+	
+	
+}
+/*
+*/
+
+.fixed{
+
+
+
+}
+.table_body{
+
+
+
+}
+.KPI_form{
+	vertical-align:center;
+	background-color: #cce7fc;
+	margin-left: 600px;
+	margin-right: 20px;
+	border-radius:10px 10px 10px 10px ;
+	padding: 5px;
+	box-shadow: 5px 5px 10px #3c2f00;
+	height:50px;
+	
+	
+	
+}
+
+.tbody{
+background-color: red;
+
+}
+
+.table_RSMKPI{
+	
+	
+
+	 border-collapse: collapse;
+	 
+	width:1250px; /**/
+	
+	
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+	text-align:Center;
+	
+}
+box-shadow: 1px 1px 2px #3c2f00;
+
+.table_RSMKPI th, td{
+	
+	 border: 1px solid green;
+}
+
+tr.noBorder td {
+  border: 0;
+}
+
+
+
+thead{
+
+
+	
+}
+
+tbody
+{
+
+
+	
+	
+	
+
+
+
+	
+}
+
+/*
+
+.RSM_KPI_Div{
+	width:300px;
+	overflow-x:scroll;
+	margin-left:1021px;
+	/*height:100px;
+	overflow-y:scroll; */
+	
+}
+
+
+.ro1{
+	
+	
+	}
+	
+
+	
+/*
+.col1{
+	position:absolute;
+	width:119px;
+	left:15px;
+	top:auto:
+	}
+	
+.col2{
+	position:absolute;
+	width:75px;
+	left:139px;
+	top:auto:
+	}
+.col3{
+	position:absolute;
+	width:73px;
+	left:217px;
+	top:auto:
+	}
+
+.col4{
+	position:absolute;
+	width:77px;
+	left:295px;
+	top:auto:
+	}
+
+.col5{
+	position:absolute;
+	width:249px;
+	left:375px;
+	top:auto:
+	}
+	
+.col6{
+	position:absolute;
+	width:74px;
+	left:550px;
+	top:auto:
+	}
+.col7{
+	position:absolute;
+	width:80px;
+	left:629px;
+	top:auto:
+	}
+.col8{
+	position:absolute;
+	width:100px;
+	left:712px;
+	top:auto:
+	}
+.col9{
+	position:absolute;
+	width:100px;
+	left:818px;
+	top:auto:
+	}
+.col10{
+	position:absolute;
+	width:100px;
+	left:925px;
+	top:auto:
+	}
+	*/
+	

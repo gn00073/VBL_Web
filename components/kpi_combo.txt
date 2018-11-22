@@ -1,0 +1,4 @@
+<option value="CSD_RD">CSD RD</option>
+<option value="Open_Stock">Open Stock</option>
+<option value="LRB_RD">LRB RD</option>
+<option value="Water_RD">Water RD</option>
